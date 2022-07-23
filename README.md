@@ -25,7 +25,7 @@ Last summer, I was a Math and English instructor at my local Kumon center. A stu
     ```
     npm start
     ```
-5. Open http://localhost:3000 in your browser (at this point, things will not work propetly until you have set-up your backend server)
+5. Open http://localhost:3000 in your browser (at this point, things will not work properly until you have set-up your backend server)
 ### Set-up Back-end
 1. Create a Mongodb Atlas database
 2. Add a user and a corresponding username and password to access your MongoDB Atlas database
