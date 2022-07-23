@@ -7,7 +7,11 @@ Two options:
 
 ## The Story
 Last summer, I was a Math and English instructor at my local Kumon center. A student of mine who struggled to find motivation to complete her work inspired me to developed a program in my free time using Java called "The Grantham Plaza Kumon Prize Pet," where students would adopt a virtual pet, log their completed homework and receive prizes! The center continued to use my program even when I moved on to university. This summer I returned with newly developed skills to create a full MERN-stack applicaiton of my old game. Once again, I worked closely with instructors to develop exactly what they were looking for in a web-app!
-
+## Screenshots
+(more avaiiable in 'screenshots' folder)
+![Alt text](screenshots/main-screenshot.png?raw=true )
+![Alt text](screenshots/student-screnshot.png?raw=true )
+![Alt text](screenshots/congrats-screenshot.png?raw=true )
 ## How to Use
 ### Set-up Front-end
 1. Install Node.js https://nodejs.org/en/download/
